@@ -1,0 +1,10 @@
+c:\users\user\source\repos\MemoryLeak\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+c:\users\user\source\repos\MemoryLeak\ConsoleTest\bin\Debug\ConsoleTest.exe
+c:\users\user\source\repos\MemoryLeak\ConsoleTest\bin\Debug\ConsoleTest.pdb
+c:\users\user\source\repos\MemoryLeak\ConsoleTest\bin\Debug\MemoryLeakExample.dll
+c:\users\user\source\repos\MemoryLeak\ConsoleTest\bin\Debug\MemoryLeakExample.pdb
+c:\users\user\source\repos\MemoryLeak\ConsoleTest\obj\Debug\ConsoleTest.csprojAssemblyReference.cache
+c:\users\user\source\repos\MemoryLeak\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\MemoryLeak\ConsoleTest\obj\Debug\ConsoleTest.csproj.CopyComplete
+c:\users\user\source\repos\MemoryLeak\ConsoleTest\obj\Debug\ConsoleTest.exe
+c:\users\user\source\repos\MemoryLeak\ConsoleTest\obj\Debug\ConsoleTest.pdb

@@ -1,0 +1,5 @@
+c:\users\user\source\repos\MemoryLeak\MemoryLeakExample\bin\Debug\MemoryLeakExample.dll
+c:\users\user\source\repos\MemoryLeak\MemoryLeakExample\bin\Debug\MemoryLeakExample.pdb
+c:\users\user\source\repos\MemoryLeak\MemoryLeakExample\obj\Debug\MemoryLeakExample.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\MemoryLeak\MemoryLeakExample\obj\Debug\MemoryLeakExample.dll
+c:\users\user\source\repos\MemoryLeak\MemoryLeakExample\obj\Debug\MemoryLeakExample.pdb
